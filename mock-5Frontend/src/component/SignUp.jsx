@@ -57,6 +57,7 @@ export const SignUp = () => {
         <br />
 
         <FormLabel>Password</FormLabel>
+         <FormLabel>Password again</FormLabel>
         <Input
           type="password"
           value={password}
